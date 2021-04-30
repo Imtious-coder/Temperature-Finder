@@ -1,7 +1,14 @@
 # Temperature-Finder
 
-## Live link (https://imtious-coder.github.io/Temperature-Finder/)
+#### Preview(https://imtious-coder.github.io/Temperature-Finder/)
 
-### This is a practice project by using API from (https://openweathermap.org/) you can find any city current weather from this site.
+## Front End Development (React)
 
-#### This page has Bootsratp and HTML and JavaScript.
+* Search temperature by name.
+* Get the current temperature.
+* Search any country. 
+
+#### Tech and Tools: JavaScript, React, HTML5, CSS3, Bootstrap5, React Router, Fontawesome, Git, Github
+
+###### Imtious Islam 
+
